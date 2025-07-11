@@ -16,3 +16,4 @@ Reginald B. Hebert, Yale University
 11 July 2025
 
 **Original SAS code by US Census Bureau**
+**Data labeling conventions adapted from NCI**
