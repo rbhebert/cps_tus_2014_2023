@@ -1,14 +1,10 @@
 /*
-Begin by importing data from harmonized file through 2019 from:
-https://cancercontrol.cancer.gov/brp/tcrb/tus-cps/results
-
 Download 2014-2023 wave datasets for TUS
 
 Run:
 	tus_1415_import.do
 	tus_1819_import.do
 	tus_2223_import.do 
-	
 */
 
 global dir "/YourDirectoryHere"
